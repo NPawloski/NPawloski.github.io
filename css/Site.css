@@ -1,0 +1,11 @@
+﻿body {
+    background-color: rgb(32,32,32);
+    color: lightgray;
+}
+
+.aboutMe {
+    text-align: center;
+}
+#headShot {
+    transform: rotate(270deg);
+}
